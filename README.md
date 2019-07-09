@@ -8,6 +8,6 @@ splunk for logger
 servive now 
 new relic for mobile services 
 slack integration
-screen shot for capturing screen
+screen shot for capturing screen to the slack
 
 this will tigger 
